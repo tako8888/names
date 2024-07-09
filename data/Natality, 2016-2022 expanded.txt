@@ -1,0 +1,431 @@
+"Notes"	"State of Residence"	"State of Residence Code"	"Year"	"Year Code"	Births
+	"Alabama"	"01"	"2016"	"2016"	59151
+	"Alabama"	"01"	"2017"	"2017"	58941
+	"Alabama"	"01"	"2018"	"2018"	57761
+	"Alabama"	"01"	"2019"	"2019"	58615
+	"Alabama"	"01"	"2020"	"2020"	57647
+	"Alabama"	"01"	"2021"	"2021"	58054
+	"Alabama"	"01"	"2022"	"2022"	58149
+"Total"	"Alabama"	"01"			408318
+	"Alaska"	"02"	"2016"	"2016"	11209
+	"Alaska"	"02"	"2017"	"2017"	10445
+	"Alaska"	"02"	"2018"	"2018"	10086
+	"Alaska"	"02"	"2019"	"2019"	9822
+	"Alaska"	"02"	"2020"	"2020"	9469
+	"Alaska"	"02"	"2021"	"2021"	9367
+	"Alaska"	"02"	"2022"	"2022"	9359
+"Total"	"Alaska"	"02"			69757
+	"Arizona"	"04"	"2016"	"2016"	84520
+	"Arizona"	"04"	"2017"	"2017"	81872
+	"Arizona"	"04"	"2018"	"2018"	80723
+	"Arizona"	"04"	"2019"	"2019"	79375
+	"Arizona"	"04"	"2020"	"2020"	76947
+	"Arizona"	"04"	"2021"	"2021"	77916
+	"Arizona"	"04"	"2022"	"2022"	78547
+"Total"	"Arizona"	"04"			559900
+	"Arkansas"	"05"	"2016"	"2016"	38274
+	"Arkansas"	"05"	"2017"	"2017"	37520
+	"Arkansas"	"05"	"2018"	"2018"	37018
+	"Arkansas"	"05"	"2019"	"2019"	36564
+	"Arkansas"	"05"	"2020"	"2020"	35251
+	"Arkansas"	"05"	"2021"	"2021"	35965
+	"Arkansas"	"05"	"2022"	"2022"	35471
+"Total"	"Arkansas"	"05"			256063
+	"California"	"06"	"2016"	"2016"	488827
+	"California"	"06"	"2017"	"2017"	471658
+	"California"	"06"	"2018"	"2018"	454920
+	"California"	"06"	"2019"	"2019"	446479
+	"California"	"06"	"2020"	"2020"	420259
+	"California"	"06"	"2021"	"2021"	420608
+	"California"	"06"	"2022"	"2022"	419104
+"Total"	"California"	"06"			3121855
+	"Colorado"	"08"	"2016"	"2016"	66613
+	"Colorado"	"08"	"2017"	"2017"	64382
+	"Colorado"	"08"	"2018"	"2018"	62885
+	"Colorado"	"08"	"2019"	"2019"	62869
+	"Colorado"	"08"	"2020"	"2020"	61494
+	"Colorado"	"08"	"2021"	"2021"	62949
+	"Colorado"	"08"	"2022"	"2022"	62383
+"Total"	"Colorado"	"08"			443575
+	"Connecticut"	"09"	"2016"	"2016"	36015
+	"Connecticut"	"09"	"2017"	"2017"	35221
+	"Connecticut"	"09"	"2018"	"2018"	34725
+	"Connecticut"	"09"	"2019"	"2019"	34258
+	"Connecticut"	"09"	"2020"	"2020"	33460
+	"Connecticut"	"09"	"2021"	"2021"	35670
+	"Connecticut"	"09"	"2022"	"2022"	35332
+"Total"	"Connecticut"	"09"			244681
+	"Delaware"	"10"	"2016"	"2016"	10992
+	"Delaware"	"10"	"2017"	"2017"	10855
+	"Delaware"	"10"	"2018"	"2018"	10621
+	"Delaware"	"10"	"2019"	"2019"	10562
+	"Delaware"	"10"	"2020"	"2020"	10392
+	"Delaware"	"10"	"2021"	"2021"	10482
+	"Delaware"	"10"	"2022"	"2022"	10816
+"Total"	"Delaware"	"10"			74720
+	"District of Columbia"	"11"	"2016"	"2016"	9858
+	"District of Columbia"	"11"	"2017"	"2017"	9560
+	"District of Columbia"	"11"	"2018"	"2018"	9212
+	"District of Columbia"	"11"	"2019"	"2019"	9079
+	"District of Columbia"	"11"	"2020"	"2020"	8874
+	"District of Columbia"	"11"	"2021"	"2021"	8660
+	"District of Columbia"	"11"	"2022"	"2022"	8075
+"Total"	"District of Columbia"	"11"			63318
+	"Florida"	"12"	"2016"	"2016"	225022
+	"Florida"	"12"	"2017"	"2017"	223630
+	"Florida"	"12"	"2018"	"2018"	221542
+	"Florida"	"12"	"2019"	"2019"	220002
+	"Florida"	"12"	"2020"	"2020"	209671
+	"Florida"	"12"	"2021"	"2021"	216260
+	"Florida"	"12"	"2022"	"2022"	224433
+"Total"	"Florida"	"12"			1540560
+	"Georgia"	"13"	"2016"	"2016"	130042
+	"Georgia"	"13"	"2017"	"2017"	129243
+	"Georgia"	"13"	"2018"	"2018"	126172
+	"Georgia"	"13"	"2019"	"2019"	126371
+	"Georgia"	"13"	"2020"	"2020"	122473
+	"Georgia"	"13"	"2021"	"2021"	124073
+	"Georgia"	"13"	"2022"	"2022"	126130
+"Total"	"Georgia"	"13"			884504
+	"Hawaii"	"15"	"2016"	"2016"	18059
+	"Hawaii"	"15"	"2017"	"2017"	17517
+	"Hawaii"	"15"	"2018"	"2018"	16972
+	"Hawaii"	"15"	"2019"	"2019"	16797
+	"Hawaii"	"15"	"2020"	"2020"	15785
+	"Hawaii"	"15"	"2021"	"2021"	15620
+	"Hawaii"	"15"	"2022"	"2022"	15535
+"Total"	"Hawaii"	"15"			116285
+	"Idaho"	"16"	"2016"	"2016"	22482
+	"Idaho"	"16"	"2017"	"2017"	22181
+	"Idaho"	"16"	"2018"	"2018"	21403
+	"Idaho"	"16"	"2019"	"2019"	22063
+	"Idaho"	"16"	"2020"	"2020"	21533
+	"Idaho"	"16"	"2021"	"2021"	22427
+	"Idaho"	"16"	"2022"	"2022"	22391
+"Total"	"Idaho"	"16"			154480
+	"Illinois"	"17"	"2016"	"2016"	154445
+	"Illinois"	"17"	"2017"	"2017"	149390
+	"Illinois"	"17"	"2018"	"2018"	144815
+	"Illinois"	"17"	"2019"	"2019"	140128
+	"Illinois"	"17"	"2020"	"2020"	133298
+	"Illinois"	"17"	"2021"	"2021"	132189
+	"Illinois"	"17"	"2022"	"2022"	128350
+"Total"	"Illinois"	"17"			982615
+	"Indiana"	"18"	"2016"	"2016"	83091
+	"Indiana"	"18"	"2017"	"2017"	82170
+	"Indiana"	"18"	"2018"	"2018"	81646
+	"Indiana"	"18"	"2019"	"2019"	80859
+	"Indiana"	"18"	"2020"	"2020"	78616
+	"Indiana"	"18"	"2021"	"2021"	79946
+	"Indiana"	"18"	"2022"	"2022"	79649
+"Total"	"Indiana"	"18"			565977
+	"Iowa"	"19"	"2016"	"2016"	39403
+	"Iowa"	"19"	"2017"	"2017"	38430
+	"Iowa"	"19"	"2018"	"2018"	37785
+	"Iowa"	"19"	"2019"	"2019"	37649
+	"Iowa"	"19"	"2020"	"2020"	36114
+	"Iowa"	"19"	"2021"	"2021"	36835
+	"Iowa"	"19"	"2022"	"2022"	36506
+"Total"	"Iowa"	"19"			262722
+	"Kansas"	"20"	"2016"	"2016"	38053
+	"Kansas"	"20"	"2017"	"2017"	36519
+	"Kansas"	"20"	"2018"	"2018"	36261
+	"Kansas"	"20"	"2019"	"2019"	35395
+	"Kansas"	"20"	"2020"	"2020"	34376
+	"Kansas"	"20"	"2021"	"2021"	34705
+	"Kansas"	"20"	"2022"	"2022"	34401
+"Total"	"Kansas"	"20"			249710
+	"Kentucky"	"21"	"2016"	"2016"	55449
+	"Kentucky"	"21"	"2017"	"2017"	54752
+	"Kentucky"	"21"	"2018"	"2018"	53922
+	"Kentucky"	"21"	"2019"	"2019"	53069
+	"Kentucky"	"21"	"2020"	"2020"	51668
+	"Kentucky"	"21"	"2021"	"2021"	52214
+	"Kentucky"	"21"	"2022"	"2022"	52315
+"Total"	"Kentucky"	"21"			373389
+	"Louisiana"	"22"	"2016"	"2016"	63178
+	"Louisiana"	"22"	"2017"	"2017"	61018
+	"Louisiana"	"22"	"2018"	"2018"	59615
+	"Louisiana"	"22"	"2019"	"2019"	58941
+	"Louisiana"	"22"	"2020"	"2020"	57328
+	"Louisiana"	"22"	"2021"	"2021"	57437
+	"Louisiana"	"22"	"2022"	"2022"	56479
+"Total"	"Louisiana"	"22"			413996
+	"Maine"	"23"	"2016"	"2016"	12705
+	"Maine"	"23"	"2017"	"2017"	12298
+	"Maine"	"23"	"2018"	"2018"	12311
+	"Maine"	"23"	"2019"	"2019"	11779
+	"Maine"	"23"	"2020"	"2020"	11539
+	"Maine"	"23"	"2021"	"2021"	12006
+	"Maine"	"23"	"2022"	"2022"	12093
+"Total"	"Maine"	"23"			84731
+	"Maryland"	"24"	"2016"	"2016"	73136
+	"Maryland"	"24"	"2017"	"2017"	71641
+	"Maryland"	"24"	"2018"	"2018"	71080
+	"Maryland"	"24"	"2019"	"2019"	70178
+	"Maryland"	"24"	"2020"	"2020"	68554
+	"Maryland"	"24"	"2021"	"2021"	68285
+	"Maryland"	"24"	"2022"	"2022"	68782
+"Total"	"Maryland"	"24"			491656
+	"Massachusetts"	"25"	"2016"	"2016"	71317
+	"Massachusetts"	"25"	"2017"	"2017"	70702
+	"Massachusetts"	"25"	"2018"	"2018"	69109
+	"Massachusetts"	"25"	"2019"	"2019"	69117
+	"Massachusetts"	"25"	"2020"	"2020"	66428
+	"Massachusetts"	"25"	"2021"	"2021"	69137
+	"Massachusetts"	"25"	"2022"	"2022"	68584
+"Total"	"Massachusetts"	"25"			484394
+	"Michigan"	"26"	"2016"	"2016"	113315
+	"Michigan"	"26"	"2017"	"2017"	111426
+	"Michigan"	"26"	"2018"	"2018"	110032
+	"Michigan"	"26"	"2019"	"2019"	107886
+	"Michigan"	"26"	"2020"	"2020"	104074
+	"Michigan"	"26"	"2021"	"2021"	104980
+	"Michigan"	"26"	"2022"	"2022"	102321
+"Total"	"Michigan"	"26"			754034
+	"Minnesota"	"27"	"2016"	"2016"	69749
+	"Minnesota"	"27"	"2017"	"2017"	68595
+	"Minnesota"	"27"	"2018"	"2018"	67344
+	"Minnesota"	"27"	"2019"	"2019"	66027
+	"Minnesota"	"27"	"2020"	"2020"	63443
+	"Minnesota"	"27"	"2021"	"2021"	64425
+	"Minnesota"	"27"	"2022"	"2022"	64015
+"Total"	"Minnesota"	"27"			463598
+	"Mississippi"	"28"	"2016"	"2016"	37928
+	"Mississippi"	"28"	"2017"	"2017"	37357
+	"Mississippi"	"28"	"2018"	"2018"	37000
+	"Mississippi"	"28"	"2019"	"2019"	36636
+	"Mississippi"	"28"	"2020"	"2020"	35473
+	"Mississippi"	"28"	"2021"	"2021"	35156
+	"Mississippi"	"28"	"2022"	"2022"	34675
+"Total"	"Mississippi"	"28"			254225
+	"Missouri"	"29"	"2016"	"2016"	74705
+	"Missouri"	"29"	"2017"	"2017"	73034
+	"Missouri"	"29"	"2018"	"2018"	73269
+	"Missouri"	"29"	"2019"	"2019"	72127
+	"Missouri"	"29"	"2020"	"2020"	69285
+	"Missouri"	"29"	"2021"	"2021"	69453
+	"Missouri"	"29"	"2022"	"2022"	68985
+"Total"	"Missouri"	"29"			500858
+	"Montana"	"30"	"2016"	"2016"	12282
+	"Montana"	"30"	"2017"	"2017"	11799
+	"Montana"	"30"	"2018"	"2018"	11513
+	"Montana"	"30"	"2019"	"2019"	11079
+	"Montana"	"30"	"2020"	"2020"	10791
+	"Montana"	"30"	"2021"	"2021"	11231
+	"Montana"	"30"	"2022"	"2022"	11175
+"Total"	"Montana"	"30"			79870
+	"Nebraska"	"31"	"2016"	"2016"	26589
+	"Nebraska"	"31"	"2017"	"2017"	25821
+	"Nebraska"	"31"	"2018"	"2018"	25488
+	"Nebraska"	"31"	"2019"	"2019"	24755
+	"Nebraska"	"31"	"2020"	"2020"	24291
+	"Nebraska"	"31"	"2021"	"2021"	24609
+	"Nebraska"	"31"	"2022"	"2022"	24345
+"Total"	"Nebraska"	"31"			175898
+	"Nevada"	"32"	"2016"	"2016"	36260
+	"Nevada"	"32"	"2017"	"2017"	35756
+	"Nevada"	"32"	"2018"	"2018"	35682
+	"Nevada"	"32"	"2019"	"2019"	35072
+	"Nevada"	"32"	"2020"	"2020"	33653
+	"Nevada"	"32"	"2021"	"2021"	33686
+	"Nevada"	"32"	"2022"	"2022"	33193
+"Total"	"Nevada"	"32"			243302
+	"New Hampshire"	"33"	"2016"	"2016"	12267
+	"New Hampshire"	"33"	"2017"	"2017"	12116
+	"New Hampshire"	"33"	"2018"	"2018"	11995
+	"New Hampshire"	"33"	"2019"	"2019"	11839
+	"New Hampshire"	"33"	"2020"	"2020"	11791
+	"New Hampshire"	"33"	"2021"	"2021"	12625
+	"New Hampshire"	"33"	"2022"	"2022"	12077
+"Total"	"New Hampshire"	"33"			84710
+	"New Jersey"	"34"	"2016"	"2016"	102647
+	"New Jersey"	"34"	"2017"	"2017"	101250
+	"New Jersey"	"34"	"2018"	"2018"	101223
+	"New Jersey"	"34"	"2019"	"2019"	99585
+	"New Jersey"	"34"	"2020"	"2020"	97954
+	"New Jersey"	"34"	"2021"	"2021"	101497
+	"New Jersey"	"34"	"2022"	"2022"	102893
+"Total"	"New Jersey"	"34"			707049
+	"New Mexico"	"35"	"2016"	"2016"	24692
+	"New Mexico"	"35"	"2017"	"2017"	23767
+	"New Mexico"	"35"	"2018"	"2018"	23039
+	"New Mexico"	"35"	"2019"	"2019"	22960
+	"New Mexico"	"35"	"2020"	"2020"	21903
+	"New Mexico"	"35"	"2021"	"2021"	21391
+	"New Mexico"	"35"	"2022"	"2022"	21614
+"Total"	"New Mexico"	"35"			159366
+	"New York"	"36"	"2016"	"2016"	234283
+	"New York"	"36"	"2017"	"2017"	229737
+	"New York"	"36"	"2018"	"2018"	226238
+	"New York"	"36"	"2019"	"2019"	221539
+	"New York"	"36"	"2020"	"2020"	209338
+	"New York"	"36"	"2021"	"2021"	210742
+	"New York"	"36"	"2022"	"2022"	207774
+"Total"	"New York"	"36"			1539651
+	"North Carolina"	"37"	"2016"	"2016"	120779
+	"North Carolina"	"37"	"2017"	"2017"	120125
+	"North Carolina"	"37"	"2018"	"2018"	118954
+	"North Carolina"	"37"	"2019"	"2019"	118725
+	"North Carolina"	"37"	"2020"	"2020"	116730
+	"North Carolina"	"37"	"2021"	"2021"	120466
+	"North Carolina"	"37"	"2022"	"2022"	121562
+"Total"	"North Carolina"	"37"			837341
+	"North Dakota"	"38"	"2016"	"2016"	11383
+	"North Dakota"	"38"	"2017"	"2017"	10737
+	"North Dakota"	"38"	"2018"	"2018"	10636
+	"North Dakota"	"38"	"2019"	"2019"	10454
+	"North Dakota"	"38"	"2020"	"2020"	10059
+	"North Dakota"	"38"	"2021"	"2021"	10112
+	"North Dakota"	"38"	"2022"	"2022"	9567
+"Total"	"North Dakota"	"38"			72948
+	"Ohio"	"39"	"2016"	"2016"	138085
+	"Ohio"	"39"	"2017"	"2017"	136832
+	"Ohio"	"39"	"2018"	"2018"	135134
+	"Ohio"	"39"	"2019"	"2019"	134461
+	"Ohio"	"39"	"2020"	"2020"	129191
+	"Ohio"	"39"	"2021"	"2021"	129791
+	"Ohio"	"39"	"2022"	"2022"	128231
+"Total"	"Ohio"	"39"			931725
+	"Oklahoma"	"40"	"2016"	"2016"	52592
+	"Oklahoma"	"40"	"2017"	"2017"	50214
+	"Oklahoma"	"40"	"2018"	"2018"	49800
+	"Oklahoma"	"40"	"2019"	"2019"	49143
+	"Oklahoma"	"40"	"2020"	"2020"	47623
+	"Oklahoma"	"40"	"2021"	"2021"	48410
+	"Oklahoma"	"40"	"2022"	"2022"	48332
+"Total"	"Oklahoma"	"40"			346114
+	"Oregon"	"41"	"2016"	"2016"	45535
+	"Oregon"	"41"	"2017"	"2017"	43631
+	"Oregon"	"41"	"2018"	"2018"	42188
+	"Oregon"	"41"	"2019"	"2019"	41858
+	"Oregon"	"41"	"2020"	"2020"	39820
+	"Oregon"	"41"	"2021"	"2021"	40914
+	"Oregon"	"41"	"2022"	"2022"	39493
+"Total"	"Oregon"	"41"			293439
+	"Pennsylvania"	"42"	"2016"	"2016"	139409
+	"Pennsylvania"	"42"	"2017"	"2017"	137745
+	"Pennsylvania"	"42"	"2018"	"2018"	135673
+	"Pennsylvania"	"42"	"2019"	"2019"	134230
+	"Pennsylvania"	"42"	"2020"	"2020"	130693
+	"Pennsylvania"	"42"	"2021"	"2021"	132622
+	"Pennsylvania"	"42"	"2022"	"2022"	130252
+"Total"	"Pennsylvania"	"42"			940624
+	"Rhode Island"	"44"	"2016"	"2016"	10798
+	"Rhode Island"	"44"	"2017"	"2017"	10638
+	"Rhode Island"	"44"	"2018"	"2018"	10506
+	"Rhode Island"	"44"	"2019"	"2019"	10175
+	"Rhode Island"	"44"	"2020"	"2020"	10101
+	"Rhode Island"	"44"	"2021"	"2021"	10464
+	"Rhode Island"	"44"	"2022"	"2022"	10269
+"Total"	"Rhode Island"	"44"			72951
+	"South Carolina"	"45"	"2016"	"2016"	57342
+	"South Carolina"	"45"	"2017"	"2017"	57029
+	"South Carolina"	"45"	"2018"	"2018"	56669
+	"South Carolina"	"45"	"2019"	"2019"	57038
+	"South Carolina"	"45"	"2020"	"2020"	55704
+	"South Carolina"	"45"	"2021"	"2021"	57185
+	"South Carolina"	"45"	"2022"	"2022"	57820
+"Total"	"South Carolina"	"45"			398787
+	"South Dakota"	"46"	"2016"	"2016"	12275
+	"South Dakota"	"46"	"2017"	"2017"	12134
+	"South Dakota"	"46"	"2018"	"2018"	11893
+	"South Dakota"	"46"	"2019"	"2019"	11449
+	"South Dakota"	"46"	"2020"	"2020"	10960
+	"South Dakota"	"46"	"2021"	"2021"	11369
+	"South Dakota"	"46"	"2022"	"2022"	11201
+"Total"	"South Dakota"	"46"			81281
+	"Tennessee"	"47"	"2016"	"2016"	80807
+	"Tennessee"	"47"	"2017"	"2017"	81016
+	"Tennessee"	"47"	"2018"	"2018"	80751
+	"Tennessee"	"47"	"2019"	"2019"	80450
+	"Tennessee"	"47"	"2020"	"2020"	78689
+	"Tennessee"	"47"	"2021"	"2021"	81717
+	"Tennessee"	"47"	"2022"	"2022"	82265
+"Total"	"Tennessee"	"47"			565695
+	"Texas"	"48"	"2016"	"2016"	398047
+	"Texas"	"48"	"2017"	"2017"	382050
+	"Texas"	"48"	"2018"	"2018"	378624
+	"Texas"	"48"	"2019"	"2019"	377599
+	"Texas"	"48"	"2020"	"2020"	368190
+	"Texas"	"48"	"2021"	"2021"	373594
+	"Texas"	"48"	"2022"	"2022"	389741
+"Total"	"Texas"	"48"			2667845
+	"Utah"	"49"	"2016"	"2016"	50464
+	"Utah"	"49"	"2017"	"2017"	48585
+	"Utah"	"49"	"2018"	"2018"	47209
+	"Utah"	"49"	"2019"	"2019"	46826
+	"Utah"	"49"	"2020"	"2020"	45702
+	"Utah"	"49"	"2021"	"2021"	46712
+	"Utah"	"49"	"2022"	"2022"	45768
+"Total"	"Utah"	"49"			331266
+	"Vermont"	"50"	"2016"	"2016"	5756
+	"Vermont"	"50"	"2017"	"2017"	5655
+	"Vermont"	"50"	"2018"	"2018"	5432
+	"Vermont"	"50"	"2019"	"2019"	5361
+	"Vermont"	"50"	"2020"	"2020"	5133
+	"Vermont"	"50"	"2021"	"2021"	5384
+	"Vermont"	"50"	"2022"	"2022"	5316
+"Total"	"Vermont"	"50"			38037
+	"Virginia"	"51"	"2016"	"2016"	102460
+	"Virginia"	"51"	"2017"	"2017"	100391
+	"Virginia"	"51"	"2018"	"2018"	99843
+	"Virginia"	"51"	"2019"	"2019"	97429
+	"Virginia"	"51"	"2020"	"2020"	94749
+	"Virginia"	"51"	"2021"	"2021"	95825
+	"Virginia"	"51"	"2022"	"2022"	95630
+"Total"	"Virginia"	"51"			686327
+	"Washington"	"53"	"2016"	"2016"	90505
+	"Washington"	"53"	"2017"	"2017"	87562
+	"Washington"	"53"	"2018"	"2018"	86085
+	"Washington"	"53"	"2019"	"2019"	84895
+	"Washington"	"53"	"2020"	"2020"	83086
+	"Washington"	"53"	"2021"	"2021"	83911
+	"Washington"	"53"	"2022"	"2022"	83333
+"Total"	"Washington"	"53"			599377
+	"West Virginia"	"54"	"2016"	"2016"	19079
+	"West Virginia"	"54"	"2017"	"2017"	18675
+	"West Virginia"	"54"	"2018"	"2018"	18248
+	"West Virginia"	"54"	"2019"	"2019"	18136
+	"West Virginia"	"54"	"2020"	"2020"	17323
+	"West Virginia"	"54"	"2021"	"2021"	17198
+	"West Virginia"	"54"	"2022"	"2022"	16929
+"Total"	"West Virginia"	"54"			125588
+	"Wisconsin"	"55"	"2016"	"2016"	66615
+	"Wisconsin"	"55"	"2017"	"2017"	64975
+	"Wisconsin"	"55"	"2018"	"2018"	64098
+	"Wisconsin"	"55"	"2019"	"2019"	63270
+	"Wisconsin"	"55"	"2020"	"2020"	60594
+	"Wisconsin"	"55"	"2021"	"2021"	61781
+	"Wisconsin"	"55"	"2022"	"2022"	60049
+"Total"	"Wisconsin"	"55"			441382
+	"Wyoming"	"56"	"2016"	"2016"	7386
+	"Wyoming"	"56"	"2017"	"2017"	6903
+	"Wyoming"	"56"	"2018"	"2018"	6562
+	"Wyoming"	"56"	"2019"	"2019"	6565
+	"Wyoming"	"56"	"2020"	"2020"	6128
+	"Wyoming"	"56"	"2021"	"2021"	6237
+	"Wyoming"	"56"	"2022"	"2022"	6049
+"Total"	"Wyoming"	"56"			45830
+"Total"					26286324
+"---"
+"Dataset: Natality, 2016-2022 expanded"
+"Query Parameters:"
+"Year: 2016; 2017; 2018; 2019; 2020; 2021; 2022"
+"Group By: State of Residence; Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Jul 9, 2024 2:51:37 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2022, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on Jul 9, 2024 2:51:37 PM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
