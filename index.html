@@ -24,21 +24,40 @@
               .projection(projection);
       
           d3.json('./data/nameswithstates.geojson').then(function(data) {
-              console.log(data);
+
+            var colorScale = d3.scaleSequential(d3.interpolateBlues)  
+              .domain([0.01, 0.03]);  // Replace dataArray with your actual data range
+
+
       
-              var dataArray = data.features.map(function(d) { return d.properties.Noah; });
+              // var dataArray = data.features.map(function(d) { return d.properties.Liam; });
+              // console.log(dataArray)
       
       
-              var colorScale = d3.scaleSequential(d3.interpolateBlues)  // Or any other color interpolator
-              .domain([d3.min(dataArray), d3.max(dataArray)]);  // Replace dataArray with your actual data range
+
+              function updateMap(selectedName) {
+                var dataArray = data.features.map(function(d) { return d.properties[selectedName]; });
+                console.log(selectedName)
+                console.log(dataArray)
+                // colorScale.domain([d3.min(dataArray), d3.max(dataArray)]);  // Update the color scale domain
+              
           
               svg.selectAll("path")
-                 .data(data.features)
-                 .enter()
-                 .append("path")
-                 .attr("d", path)
-                 .attr("fill", function(d) { return colorScale(d.properties.Noah); })  // Use your data property
-                 .attr("stroke", "white");   // State borders
+               .data(data.features)
+               .join("path")  // Updated to use the join method for better handling of data updates
+               .attr("d", path)
+               .attr("fill", function(d) { return colorScale(d.properties[selectedName]); })  // Apply color scale
+               .attr("stroke", "white");
+                            }
+              // Event listener for dropdown change
+              d3.select("#name-select").on("change", function() {
+                  var selectedName = d3.select(this).property("value");
+                  updateMap(selectedName);
+              });
+        // Initial map rendering with the first name in the dropdown
+        updateMap(d3.select("#name-select").property("value"));
+
+            svg.selectAll("path")
           }).catch(function(error) {
               console.log(error); // Log any error in case the file can't be loaded
           });
@@ -55,7 +74,27 @@
     <div id="my-svg-chart"></div>
     <svg width="960" height="600"></svg>
 
-
+    <select id="name-select">
+      <option value="Olivia">Olivia</option>
+      <option value="Emma">Emma</option>
+      <option value="Charlotte">Charlotte</option>
+      <option value="Amelia">Amelia</option>
+      <option value="Sophia">Sophia</option>
+      <option value="Isabella">Isabella</option>
+      <option value="Ava">Ava</option>
+      <option value="Mia">Mia</option>
+      <option value="Evelyn">Evelyn</option>
+      <option value="Luna">Luna</option>
+      <option value="Liam">Liam</option>
+      <option value="Noah">Noah</option>
+      <option value="Oliver">Oliver</option>
+      <option value="James">James</option>
+      <option value="Elijah">Elijah</option>
+      <option value="William">William</option>
+      <option value="Henry">Henry</option>
+      <option value="Lucas">Lucas</option>
+      <option value="Benjamin">Benjamin</option>
+      <option value="Theodore">Theodore</option>    </select>
 
   </body>
 </html>
