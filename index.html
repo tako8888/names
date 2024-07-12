@@ -8,62 +8,72 @@
     <script>
 
 document.addEventListener('DOMContentLoaded', function() {
+    var width = 960, height = 600;
 
-    var width = 960, height = 600;  // Define the size of the SVG element
+    // Create two SVGs for two maps
+    var svgNoah = d3.select("body").append("svg")
+                    .attr("width", width)
+                    .attr("height", height);
 
-    // Make sure this selects the SVG correctly
-    var svg = d3.select("body").select("svg")
-                .attr("width", width)
-                .attr("height", height);
-    // Populate dropdown with hardcoded values
-    var select = d3.select("#nameSelect");
-    select.append("option").text("Noah");
-    select.append("option").text("Charlotte");
-
-
+    var svgCharlotte = d3.select("body").append("svg")
+                    .attr("width", width)
+                    .attr("height", height);
 
     var projection = d3.geoAlbersUsa()
-        .translate([width / 2, height / 2])  // Centers the map in your SVG
-        .scale(1000);  // Scales the map within your SVG
+        .translate([width / 2, height / 2])
+        .scale(1000);
 
-    var path = d3.geoPath()
-        .projection(projection);
+    var path = d3.geoPath().projection(projection);
 
     d3.json('./data/usstates_merged.geojson').then(function(data) {
-        console.log(data);
+      console.log(data.features[0].properties); // Log properties of the first feature to check column names
+      var names = [...new Set(data.features.map(d => d.properties.Name))];
+      console.log(names);
 
-        var dataArray = data.features.map(function(d) { return d.properties.name_share_in_state; });
+        // Filter data for 'Noah'
+        var dataNoah = data.features.filter(function(d) { return d.properties.Name === 'Noah'; });
+        console.log('Noah:', dataNoah);
+        var dataCharlotte = data.features.filter(function(d) { return d.properties.Name === 'Charlotte'; });
+        console.log('Charlotte:', dataCharlotte);
 
+        // Extract data values
+        var dataArrayNoah = dataNoah.map(function(d) { return d.properties.name_share_in_state; });
+        var dataArrayCharlotte = dataCharlotte.map(function(d) { return d.properties.name_share_in_state; });
 
-        var colorScale = d3.scaleSequential(d3.interpolateBlues)  // Or any other color interpolator
-        .domain([d3.min(dataArray), d3.max(dataArray)]);  // Replace dataArray with your actual data range
+        var colorScaleNoah = d3.scaleSequential(d3.interpolateBlues)
+            .domain([d3.min(dataArrayNoah), d3.max(dataArrayNoah)]);
 
-        
-    
-        svg.selectAll("path")
-           .data(data.features)
+        var colorScaleCharlotte = d3.scaleSequential(d3.interpolateReds)
+            .domain([d3.min(dataArrayCharlotte), d3.max(dataArrayCharlotte)]);
+
+        // Render map for 'Noah'
+        svgNoah.selectAll("path")
+           .data(dataNoah)
            .enter()
            .append("path")
            .attr("d", path)
-           .attr("fill", function(d) { return colorScale(d.properties.name_share_in_state); })  // Use your data property
-           .attr("stroke", "white");   // State borders
+           .attr("fill", function(d) { return colorScaleNoah(d.properties.name_share_in_state); })
+           .attr("stroke", "white");
+
+        // Render map for 'Charlotte'
+        svgCharlotte.selectAll("path")
+           .data(dataCharlotte)
+           .enter()
+           .append("path")
+           .attr("d", path)
+           .attr("fill", function(d) { return colorScaleCharlotte(d.properties.name_share_in_state); })
+           .attr("stroke", "white");
     }).catch(function(error) {
-        console.log(error); // Log any error in case the file can't be loaded
+        console.log(error);
     });
-
-    
-    
-
-
-
 });
 
-    </script>
+      
+          </script>
   </head>
   <body>
     <h1>CHART TITLE</h1>
     <p>DESCRIPTION</p>
-    <select id="nameSelect"></select>
 
     <div id="my-svg-chart"></div>
     <svg width="960" height="600"></svg>
